@@ -1,0 +1,29 @@
+{
+  "folders": [
+	{
+		"path": "c:\\Users\\Alla\\Desktop\\diplom"
+	},
+	{
+		"path": "..\\..\\..\\..\\Доп. материал\\аккардион\\accord2"
+	},
+	{
+		"path": "..\\..\\..\\Максим Лескин\\lesson\\урок 32\\slider-32"
+	},
+	{
+		"path": "..\\..\\react-glo"
+	},
+	{
+		"path": "..\\..\\lesson_reast"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "homework",
+    "search.collapseResults": "auto",
+    "window.zoomLevel": 1,
+    "git.ignoreLimitWarning": true,
+    "editor.tabSize": 3
+  }
+}
